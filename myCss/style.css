@@ -1,0 +1,213 @@
+
+#top{
+    background-color: #eb6840;
+}
+#wlcm{
+    color: #dce924;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#wlcm:hover{
+    color: white;
+    
+}
+#account{
+    color: #dce924;
+    
+}
+#account:hover{
+    color: white;
+    
+}
+#link{
+    text-decoration: none;
+    color: #dce924;
+}
+#sticky{
+    background-color: white;
+}
+/* #logo{
+    width: 300px;
+    height: 100px;
+} */
+/* #fashoppingcart{
+  
+    color: white;
+    
+}
+.fa-search{
+    color: white;
+} */
+#btnhead{
+    background-color: red;
+    color: white;
+}
+#nmbr{
+    font-size: 12px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  #fabtn {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  #fabtn:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+
+  
+  
+ 
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    max-width: 230px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+
+#zoom{
+  overflow: hidden;
+}
+#zoom img{
+  transition: all 1.5s ease;
+}
+#zoom img:hover{
+  transform: scale(1.2);
+}
+
+.card a{
+  transition: all 1.5s ease;
+  
+}
+.card a:hover{
+  transform: scale(1.1);
+}
+.imagebox{
+  position: relative;
+  margin: 40px auto;
+  border-radius: 5px;
+  overflow: hidden;
+  max-width: 230px;
+}
+
+#regbtn a{
+  text-decoration: none;
+  color: white;
+}
+.jumbotron{
+  background-color: white;
+}
+
+#copyright1 {
+  background-color: #1A5994;
+  color: white;
+}
+#copyright{
+  background-color: #1E65A7;
+  color: white;
+  text-align: center;
+}
+#removeUnderLine{
+  text-decoration: none;
+  color: white;
+}
+
+#footersize{
+  font-size: 15px;
+}
+
+#shipbtn{
+  padding: 23px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  background-color: white;
+}
+#shipbtn:hover{
+  background-color: #007bb5;
+  color: white;
+}
+
+.notification {
+  
+  color: white;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+.notification .badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background: rgb(182, 121, 7);
+  color: white;
+}
+
+
+
+.zoom{
+  padding: 2px;
+}
